@@ -1,8 +1,11 @@
 **GitHub Repository: ESP32 MAC Address Scanner**
 
+---------------------------------------------------------------
 
 **Description**
+
 Welcome to the ESP32 MAC Address Sniffer project! This project is designed to help you scan and display MAC addresses of Bluetooth Low Energy (BLE) devices using an ESP32-WROOM module. The data is presented on a 1602 LCD module, making it a handy tool for robotics applications and BLE device management.
+
 
 
 **Components Used**
@@ -34,6 +37,7 @@ Welcome to the ESP32 MAC Address Sniffer project! This project is designed to he
 - The ESP32 will scan for BLE devices for 5 seconds.
 - Detected devices will be displayed on the LCD. Use the BOOT button to navigate through the list.
 
+---------------------------------------------------------------
 
 **Applications in Robotics**
 This MAC Address Scanner Sniffer can be particularly useful in robotics for identifying and managing BLE devices such as sensors and controllers. It simplifies the process of troubleshooting and device management, making it an essential tool for any robotics enthusiast.
@@ -50,5 +54,7 @@ This project is licensed under the MIT License.
 **Contact**
 For any questions or suggestions, please feel free to contact me via GitHub or email cloofsiu@gmail.com
 
-Happy building,
-**Cloof Siu**
+---------------------------------------------------------------
+Happy building, 
+
+ **Cloof Siu**
