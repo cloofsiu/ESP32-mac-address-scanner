@@ -1,4 +1,5 @@
 **GitHub Repository: ESP32 MAC Address Scanner**
+<br/>
 
 ---------------------------------------------------------------
 
@@ -6,23 +7,29 @@
 
 Welcome to the ESP32 MAC Address Sniffer project! This project is designed to help you scan and display MAC addresses of Bluetooth Low Energy (BLE) devices using an ESP32-WROOM module. The data is presented on a 1602 LCD module, making it a handy tool for robotics applications and BLE device management.
 
-
+<br/>
 
 **Components Used**
+
 - ESP32-WROOM: The core microcontroller for this project.
 - 1602 LCD Module: For displaying the scanned device information.
 - Two Breadboards: For cable expansion and easy prototyping.
 - Wires and Connectors: To connect all components together.
 
+<br/>
 
 **Features**
+
 **BLE Scanning:** Scans for nearby BLE devices and retrieves their MAC addresses and names.
 **LCD Display:** Displays the device information on a 1602 LCD module.
 **Button Navigation:** Use the BOOT button to cycle through the list of detected devices.
 
+<br/>
 
 **How to Use**
+
 **1. Hardware Setup:**
+
 - Connect the ESP32-WROOM to the breadboards.
 - Connect the 1602 LCD module to the ESP32 using an I2C interface.
 - Connect the BOOT button to the ESP32.
@@ -40,21 +47,29 @@ Welcome to the ESP32 MAC Address Sniffer project! This project is designed to he
 ---------------------------------------------------------------
 
 **Applications in Robotics**
+
 This MAC Address Scanner Sniffer can be particularly useful in robotics for identifying and managing BLE devices such as sensors and controllers. It simplifies the process of troubleshooting and device management, making it an essential tool for any robotics enthusiast.
 
+<br/>
 
 **Contributing**
+
 Feel free to fork this repository and contribute by adding new features or improving the existing code. Pull requests are welcome!
 
+<br/>
 
 **License**
+
 This project is licensed under the MIT License.
 
+<br/>
 
 **Contact**
+
 For any questions or suggestions, please feel free to contact me via GitHub or email cloofsiu@gmail.com
 
 ---------------------------------------------------------------
+<br/>
 Happy building, 
 
  **Cloof Siu**
