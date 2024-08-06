@@ -25,6 +25,13 @@ Welcome to the ESP32 MAC Address Sniffer project! This project is designed to he
 **LCD Display:** Displays the device information on a 1602 LCD module.
 **Button Navigation:** Use the BOOT button to cycle through the list of detected devices.
 
+
+<br/>
+
+## Demo video
+
+[![Demonstration Youtube video](https://img.youtube.com/vi/rXiXpg-fihc/0.jpg)](https://www.youtube.com/watch?v=rXiXpg-fihc)
+
 <br/>
 
 ## How to Use
