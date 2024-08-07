@@ -12,10 +12,18 @@ Welcome to the ESP32 MAC Address Sniffer project! This project is designed to he
 
 ## Components Used
 
-- ESP32-WROOM: The core microcontroller for this project.
-- 1602 LCD Module: For displaying the scanned device information.
+- [ESP32-WROOM](https://github.com/user-attachments/assets/22abd3a0-e08a-4ddc-9715-9f2bdde51bbb): The core microcontroller for this project.
+- [1602 LCD Module](https://github.com/user-attachments/assets/62be00a6-b8b0-4ccc-8da5-08ef50e21eca): For displaying the scanned device information.
 - Two Breadboards: For cable expansion and easy prototyping.
 - Wires and Connectors: To connect all components together.
+  
+<br/>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/22abd3a0-e08a-4ddc-9715-9f2bdde51bbb" width="200">
+
+<img src="https://github.com/user-attachments/assets/62be00a6-b8b0-4ccc-8da5-08ef50e21eca" width="300">
+</p>
 
 <br/>
 
