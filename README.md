@@ -22,7 +22,9 @@ Welcome to the ESP32 MAC Address Sniffer project! This project is designed to he
 ## Features
 
 **BLE Scanning:** Scans for nearby BLE devices and retrieves their MAC addresses and names.
+<br/>
 **LCD Display:** Displays the device information on a 1602 LCD module.
+<br/>
 **Button Navigation:** Use the BOOT button to cycle through the list of detected devices.
 
 
@@ -44,8 +46,8 @@ Welcome to the ESP32 MAC Address Sniffer project! This project is designed to he
 
 **2. Software Setup:**
 - Clone this repository.
-- Upload the provided code to your ESP32 using the Arduino IDE or another suitable development environment.
-- Make sure to install the necessary libraries (Wire.h, LiquidCrystal_I2C.h, BLEDevice.h).
+- Upload the provided [code](code/ESP32_mac-scanner.h) to your ESP32 using the Arduino IDE or another suitable development environment.
+- Make sure to install the necessary libraries ([Wire.h](https://github.com/esp8266/Arduino/blob/master/libraries/Wire/Wire.h), [LiquidCrystal_I2C.h](https://www.arduinolibraries.info/libraries/liquid-crystal-i2-c), [BLEDevice.h](https://github.com/nkolban/ESP32_BLE_Arduino/blob/master/src/BLEDevice.h)).
 
 **3. Running the Scanner:**
 - Power up the ESP32.
@@ -84,3 +86,4 @@ For any questions or suggestions, please feel free to contact me via GitHub or e
 Happy building, 
 
  **Cloof Siu**
+
